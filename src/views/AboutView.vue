@@ -48,7 +48,7 @@
         <p>
           <strong> 📨E-mail:</strong> anamariasouza701@gmail.com<br />
           <img src="@/assets/octocat.png" height="20px" alt="imagem octocat" />
-          <a href="https://github.com/souzaana"> /souzaana</a>
+          <a href="https://github.com/soouzaana"> /soouzaana</a>
         </p>
       </section>
     </div>
