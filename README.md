@@ -2,7 +2,8 @@
 
 > [👉 Visite o site do PokeVite 👈](https://pokevite-vue.netlify.app/)
 
-<img src="@/assets/tela.png"><br>
+<img src="src/assets/tela.png"><br>
+
 Prévia do PokeVite
 
 ## Objetivo
